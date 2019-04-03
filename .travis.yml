@@ -9,7 +9,7 @@ script:
 notifications:
            email:
              recipients:
-               issaquebaloi@gmail.com
+               issaquebaloi@gmailcom
                on_sucess:change
                on_failure: always
                
